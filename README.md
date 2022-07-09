@@ -1,6 +1,4 @@
-[![MasterHead]<img src="/Banner.gif" />](https://suryakannankumbhar.netlify.app/)
-<a href="https://suryakannankumbhar.netlify.app/"><img src="/Banner.gif" /></a>
-<h1 align="center">Hi 👋, I'm Surya Kannan Kumbhar</h1>
+[![MasterHead]<img referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62c960cae5aac900e3fffff9" />](https://suryakannankumbhar.netlify.app/)
 <h3 align="center">A passionate web-developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakannankumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="suryakannankumbhar" /> </p>
