@@ -1,4 +1,4 @@
-[![MasterHead]<img src="final_62c965e86cd47100d96b5d97_897073.gif" />](https://suryakannankumbhar.netlify.app/)
+[<img src="final_62c965e86cd47100d96b5d97_897073.gif" />](https://suryakannankumbhar.netlify.app/)
 <br />
 
 <h3 align="left">I am passionate web-developer from India</h3>
